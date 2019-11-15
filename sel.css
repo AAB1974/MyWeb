@@ -1,0 +1,30 @@
+/*Element стиль Элемент стиль для всех элементов*/
+li {
+
+}
+/*class стиль для всех элементов, где указан класс*/
+.hello {
+
+}
+/*id стиль для всех элементов, где указан класс*/
+#name {
+
+}
+
+/*Star задает стиль всем элементам*/
+
+* {
+	border: 1px solid lightgrey;
+}
+
+/*Descendant Selector стиль потомка селектора ul-li-a (li-a достаточно) */
+
+li a {
+    color: red;
+    }
+
+/*Adjacent Selector смежный селектор стили всех ul после h4  */
+
+h4 + ul {
+	border: 4px solid red;
+}

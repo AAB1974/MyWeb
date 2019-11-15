@@ -1,0 +1,27 @@
+h1 {
+color: rgb(180, 43, 43);
+
+/*border-color:rgb(41, 240, 6);
+border-width: 5px;
+border-style: solid; */
+
+border: 5px solid purple;
+/*border: 8px dashed purple;*/
+}
+li {
+color: rgb(0, 0, 0);
+}
+h4 {
+color: rgba(61, 61, 104, 0.922);
+background:red;
+}
+body {
+  
+    
+background: pink;    
+
+/*background:url(https://previews.123rf.com/images/jakkapan/jakkapan1702/jakkapan170200105/72557964-vintage-beach-wood-background-old-blue-color-wooden-plank.jpg);
+background-repeat:no-repeat;
+background-size: cover;*/ 
+
+}
